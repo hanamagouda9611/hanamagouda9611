@@ -104,16 +104,6 @@
 
 ---
 
-## 🏆 &nbsp; Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hanamagouda9611&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=6"/>
-
-</div>
-
----
-
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=hanamagouda9611&color=00ffe0&style=flat-square&label=Profile+Views)
